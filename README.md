@@ -26,5 +26,5 @@ This is a personal portfolio website built using React. It showcases my projects
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/my-portfolio.git
+   git clone (https://github.com/vikaschauke/my-portfolio/)
    cd my-portfolio
